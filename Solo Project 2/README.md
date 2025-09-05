@@ -356,13 +356,13 @@ BRAC University
 - **Project Repository**: [CSE423-Computer-Graphics-Lab](https://github.com/nihal-kabir/CSE423-Computer-Graphics-Lab)
 - **Course**: CSE423 - Computer Graphics Lab
 - **Institution**: BRAC University
-- **Academic Year**: 2024-2025
+- **Academic Year**: 2022-2025
 
 ### Project Information
 - **Project Type**: Solo Project 2
 - **Focus Area**: Interactive Graphics and Game Development
 - **Implementation**: Custom OpenGL rendering with Python
-- **Completion Date**: September 2025
+
 
 ## License
 
