@@ -6,6 +6,14 @@
 
 A sophisticated 2D arcade-style game built using OpenGL and Python, featuring physics-based gameplay where players catch falling diamonds to achieve high scores.
 
+<div align="center">
+  <img src="solo-2.png" alt="Diamond Frenzy Game Screenshot" width="600"/>
+</div>
+
+<div align="center">
+  <h3><a href="https://youtube.com/shorts/SaO00gi65Bs?feature=share">🎮 YouTube Demo</a></h3>
+</div>
+
 ## Table of Contents
 
 - [Overview](#overview)
