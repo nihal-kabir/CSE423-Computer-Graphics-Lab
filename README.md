@@ -7,7 +7,7 @@ A classic space shooter game implemented in Python using OpenGL. Defend Earth fr
 </div>
 
 <div align="center">
-  <h3><a href="https://surli.cc/euliul">🎮 Live Demo</a></h3>
+  <h3><a href="https://surli.cc/euliul">🎮 YouTube</a></h3>
 </div>
 
 ## Table of Contents
