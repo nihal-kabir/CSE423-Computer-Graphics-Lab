@@ -2,6 +2,10 @@
 
 A classic space shooter game implemented in Python using OpenGL. Defend Earth from alien invaders by controlling a spacecraft and shooting down enemies while avoiding their attacks.
 
+<div align="center">
+  <img src="423-p.png" alt="Twin Invaders Game Screenshot" width="600"/>
+</div>
+
 ## Table of Contents
 
 - [Overview](#overview)
