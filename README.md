@@ -37,7 +37,7 @@ Twin Invaders is a 2D space shooter game developed as part of the CSE423 Compute
 ## Features
 
 - **Classic Arcade Gameplay**: Navigate and shoot in a retro-style space shooter environment
-- **Dynamic Enemy AI**: Aliens move horizontally and fire projectiles at the player
+- **Dynamic Enemy**: Aliens move horizontally and fire projectiles at the player
 - **Progressive Difficulty**: Multiple bullet patterns and increasing challenge levels
 - **Life System**: Three lives with visual heart indicators
 - **Score Tracking**: Real-time score display based on alien eliminations
