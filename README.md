@@ -6,6 +6,16 @@ A classic space shooter game implemented in Python using OpenGL. Defend Earth fr
   <img src="423-p.png" alt="Twin Invaders Game Screenshot" width="600"/>
 </div>
 
+<div align="center">
+  <h3><a href="https://surli.cc/euliul">🎮 Live Demo</a></h3>
+  <p>
+    <strong>Developers:</strong> 
+    <a href="https://github.com/Lawrence-Amlan-Gomes">Lawrence Amlan Gomes</a> | 
+    <a href="https://github.com/noobcoder-hasan">Hasan Sarwar Zami</a> | 
+    A K M Nihalul Kabir
+  </p>
+</div>
+
 ## Table of Contents
 
 - [Overview](#overview)
