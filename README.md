@@ -8,12 +8,6 @@ A classic space shooter game implemented in Python using OpenGL. Defend Earth fr
 
 <div align="center">
   <h3><a href="https://surli.cc/euliul">🎮 Live Demo</a></h3>
-  <p>
-    <strong>Developers:</strong> 
-    <a href="https://github.com/Lawrence-Amlan-Gomes">Lawrence Amlan Gomes</a> | 
-    <a href="https://github.com/noobcoder-hasan">Hasan Sarwar Zami</a> | 
-    A K M Nihalul Kabir
-  </p>
 </div>
 
 ## Table of Contents
@@ -37,7 +31,7 @@ Twin Invaders is a 2D space shooter game developed as part of the CSE423 Compute
 ## Features
 
 - **Classic Arcade Gameplay**: Navigate and shoot in a retro-style space shooter environment
-- **Dynamic Enemy**: Aliens move horizontally and fire projectiles at the player
+- **Dynamic Enemy AI**: Aliens move horizontally and fire projectiles at the player
 - **Progressive Difficulty**: Multiple bullet patterns and increasing challenge levels
 - **Life System**: Three lives with visual heart indicators
 - **Score Tracking**: Real-time score display based on alien eliminations
@@ -184,5 +178,5 @@ This project is developed for educational purposes as part of the CSE423 Compute
 
 **Course**: CSE423 - Computer Graphics Lab  
 **Institution**: BRAC University  
-**Developer**: Lawrence Amlan Gomes, A K M Nihalul Kabir, Hasan Sarwar Zami  
+**Developer**: [Lawrence Amlan Gomes](https://github.com/Lawrence-Amlan-Gomes), A K M Nihalul Kabir, [Hasan Sarwar Zami](https://github.com/noobcoder-hasan)  
 **Academic Year**: 2024
