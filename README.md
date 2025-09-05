@@ -169,6 +169,6 @@ This project is developed for educational purposes as part of the CSE423 Compute
 ---
 
 **Course**: CSE423 - Computer Graphics Lab  
-**Institution**: [Your Institution Name]  
-**Developer**: [Your Name]  
-**Academic Year**: 2025
+**Institution**: BRAC University  
+**Developer**: Lawrence Amlan Gomes, A K M Nihalul Kabir, Hasan Sarwar Zami  
+**Academic Year**: 2024
